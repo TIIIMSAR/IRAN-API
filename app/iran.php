@@ -2,7 +2,7 @@
 use \Firebase\JWT\JWT;
 
 try {
-    $pdo = new PDO("mysql:dbname=iran2;host=localhost", 'root', '');
+    $pdo = new PDO("mysql:dbname=iran;host=localhost", 'root', '');
     $pdo->exec("set names utf8;");
     // echo "Connection OK!";
 } catch (PDOException $e) {
