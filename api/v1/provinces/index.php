@@ -1,3 +1,3 @@
 <?php
 
-echo "province endPoint is here ...";
+echo "province endpoint is here ...";

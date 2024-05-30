@@ -1,9 +1,9 @@
 <?php
 namespace App\Utilities;
+use \App\Utilities\CacheUtility;
 
 class Response{
 
-  
     public static function respond($data,$status_code = self::HTTP_OK){
         # set http headers
         self::setHeaders($status_code);

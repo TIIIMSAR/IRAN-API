@@ -1,0 +1,12 @@
+{
+    "name": "iran",
+    "require": {
+        "firebase/php-jwt": "^5.2"
+    },
+    "authors": [
+        {
+            "name": "Hoss MOHAMMADI",
+            "email": "1386.hosein.mohammadi.@gmail.com"
+        }
+    ]
+}
