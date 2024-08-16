@@ -1,3 +1,4 @@
  IRAN API
- پروژه ایی با معماری Singleton Pattern 
+ پروژه ایی با معماری 
+ Singleton Pattern 
  
